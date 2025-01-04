@@ -82,19 +82,13 @@ Follow the **Releases** and **Activity** tabs on GitHub for the latest updates.
 
 ### **🤝 Contributing Guidelines 🤝**
 
-We welcome contributions of all kinds! Please refer to the [CONTRIBUTING.md](https://chatgpt.com/c/677922db-9874-8013-a8c0-6d2245c1daac?model=gpt-4o#) file for detailed guidelines on how to contribute effectively.
+We welcome contributions of all kinds! Please refer to the [CONTRIBUTING.md](https://github.com/DeXSocial/DeX/blob/main/CONTRIBUTING.md) file for detailed guidelines on how to contribute effectively.
 
 ------
 
 ### **🛡️ Code of Conduct 🛡️**
 
-We are committed to fostering an open, friendly, and positive community. Please review our [CODE_OF_CONDUCT.md](https://chatgpt.com/c/677922db-9874-8013-a8c0-6d2245c1daac?model=gpt-4o#) to understand the standards we uphold.
-
-------
-
-### **📜 License 📜**
-
-This project is licensed under the [MIT License](https://chatgpt.com/c/677922db-9874-8013-a8c0-6d2245c1daac?model=gpt-4o#). See the LICENSE file for more details.
+We are committed to fostering an open, friendly, and positive community. Please review our [CODE_OF_CONDUCT.md](https://github.com/DeXSocial/DeX/blob/main/Code%20of%20Conduct.md) to understand the standards we uphold.
 
 ------
 
@@ -108,7 +102,7 @@ Memecoins are highly speculative and carry significant risks. Participation in t
 
 ------
 
-*For more information or to get started, visit our [GitHub Repository](https://chatgpt.com/c/677922db-9874-8013-a8c0-6d2245c1daac?model=gpt-4o#).*
+*For more information or to get started, visit our [GitHub Repository](https://github.com/DeXSocial/DeX).*
 
 ------
 
